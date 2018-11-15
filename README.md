@@ -2,7 +2,6 @@
 Learn React - React Crash Course 2018 - React Tutorial with Examples | Mosh
 > https://www.youtube.com/watch?v=Ke90Tje7VS0
 
-
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
